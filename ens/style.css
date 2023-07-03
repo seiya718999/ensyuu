@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.visal {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.taitle {
+  font-size: 25px;
+  padding: 20px 0 0 20px;
+  color: #c0c0c0;
+}
+
+main {
+  margin: 20px auto 0 auto;
+  width: 840px;
+}
+
+.main-item {
+  padding: 30px;
+  border-bottom: solid 2px #c0c0c0;
+  color: #c0c0c0;
+}
